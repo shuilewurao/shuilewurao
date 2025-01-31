@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-### I'm currently working as a FPGA Software Engineer at Intel.
+### I'm currently working as a Software Engineer at AMD.
 - 🔭 I'm also working on website development on the side as a freelancer
-- 🏫 I'm completed my Master's Degree in Computer Science at UIUC (Specializing in Systems)
+- 🏫 I completed my Master's Degree in Computer Science at UIUC (Specializing in Systems)
 - 🏫 I completed my Bachelor's Degree in Computer Engineering at the University of Toronto
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
